@@ -1,9 +1,8 @@
-# Ambiente virtual
 .venv/
-
-# Ficheiros temporários do Python e do Jupyter
-__pycache__/
+venv/
 .ipynb_checkpoints/
-
-# Ficheiros pesados de dados (não devem ir para o GitHub)
-data/
+dados/
+*.csv
+*.zip
+.DS_Store
+Thumbs.db
