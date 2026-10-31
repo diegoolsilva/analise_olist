@@ -8,7 +8,7 @@ Este repositório contém o pipeline analítico, tratamento e limpeza de dados, 
 ### 📌 Entregáveis Oficiais
 * **Repositório GitHub:** `https://github.com/diegoolsilva/analise_olist`
 * **Apresentação Executiva (Google Slides):** `https://docs.google.com/presentation/d/1ds7gheDAoapEgzYRsnGeAE47jLrAnDOCg9STFbRxreQ/edit?usp=sharing`
-* **Vídeo de Apresentação Executiva (até 5 min):** [COLE_AQUI_O_LINK_DO_VÍDEO]
+* **Vídeo de Apresentação Executiva (até 5 min):** `https://drive.google.com/file/d/1VGT6mSFqIHczA4X-QWwPwYCKcQ_Oqks-/view?usp=sharing`
 
 ---
 
